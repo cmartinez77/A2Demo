@@ -21,6 +21,8 @@ export class ComponentDemoComponent implements OnInit {
       *     -ngAfterViewInit()
       *     -ngOnCHanges()
       *     -ngOnDestroy()*/
+
+    // this.logResult1();
   }
 
   logResult1() {

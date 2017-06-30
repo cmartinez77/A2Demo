@@ -1,0 +1,8 @@
+#app {
+  text-align:center;
+  border: solid black 1px;
+}
+
+#component-demo {
+  border: solid blue 1px;
+}
